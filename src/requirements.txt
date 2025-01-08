@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+spacy
+es_core_news_sm
+lark-parser
+nltk
+rapidfuzz
+langdetect
