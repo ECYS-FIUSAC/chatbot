@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Escuela de Ciencias y Sistemas
+Copyright (c) 2024 [chatbot Contributors](https://github.com/ECYS-FIUSAC/chatbot/contributors)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
